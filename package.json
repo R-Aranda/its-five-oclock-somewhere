@@ -30,6 +30,8 @@
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
     "@babel/runtime": "^7.13.10",
+    "dayjs": "^1.11.3",
+    "moment-timezone": "^0.5.34",
     "react": "~16.8.0",
     "react-dom": "~16.8.0",
     "react-router-dom": "^5.0.0"
